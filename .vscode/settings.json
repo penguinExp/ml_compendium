@@ -2,6 +2,8 @@
     "cSpell.words": [
         "astype",
         "graphviz",
+        "matplotlib",
+        "pyplot",
         "pywhatkit",
         "sendwhatmsg",
         "sklearn"
